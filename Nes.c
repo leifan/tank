@@ -1,3 +1,4 @@
+//tank 2011
 #include "comm.h"           	//接口驱动的.H文件
 #include "tank_strat_map.h" 	//开始画面地图数据
 #include "tank_strat_col.h" 	//开始画面调色板信息
